@@ -60,7 +60,7 @@ const Projects = () => {
     <section id='projects' className="bg-[#003329] py-24">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 className="text-3xl font-bold text-[#fffffe] mb-12 sm:text-[2.3rem] lg:text-[2.8rem] lg:mb-14">My Projects</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-8">
           {projects.map((project, index) => (
             <div key={index} className="bg-[#e8e4e6] rounded-lg shadow-lg overflow-hidden lg:mb-9" data-aos='fade-up'>
               <div className="relative h-48">
