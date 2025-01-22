@@ -3,8 +3,8 @@ import { SiTailwindcss, SiTypescript } from "react-icons/si";
 
 const hero2 = () => {
   return (
-    <div className="h-[41rem] p-2 bg-[#abd1c6] lg:h-[38.5rem] xl:h-[37rem]">
-      <div className="text-[#001e1d] sm:text-[20px] sm:mb-5 md:text-[1.3rem]">
+    <div className="h-[47.3rem] p-2 bg-[#abd1c6] lg:h-[42rem] xl:h-[40rem]">
+      <div className="text-[#001e1d] p-7 sm:text-[20px] sm:mb-5 md:text-[1.3rem]">
         I’m a passionate frontend developer who transforms ideas into visually
         stunning, interactive, and user-friendly web experiences. With a strong
         foundation in HTML, CSS, and JavaScript, I specialize in crafting

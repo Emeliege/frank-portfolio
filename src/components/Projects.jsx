@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
-import deshop from '../image/deshop.png';
-import dimarstore from '../image/dimar-store.png';
+import deshop from '../image/deshop1.png';
+import dimarstore from '../image/dimar-store1.png';
 import doktorzcuts from '../image/doktorz-cutz.png';
 import eyeprof from '../image/eyeprof.png';
 import portfolio from '../image/portfolio.png';

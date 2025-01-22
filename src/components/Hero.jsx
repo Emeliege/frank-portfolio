@@ -1,5 +1,5 @@
 import dp from "../image/dp2.jpg";
-import cv from "../cv/cv.jpg";
+import cv from "../cv/resume.jpg";
 import { GrDocumentDownload } from "react-icons/gr";
 import { Facebook, Github, Instagram, Linkedin, Mail } from "lucide-react";
 
@@ -23,17 +23,17 @@ const Hero = () => {
             Chiemelie
           </p>
           <p className="mb-2">
-            <span className="font-bold">Nationality:</span> Nigerian
-          </p>
-          <p className="mb-2">
             <span className="font-bold">College degree:</span> Optometry
           </p>
           <p className="mb-2">
+            <span className="font-bold">Zodiac:</span> Virgo♍ (August 26)
+          </p>
+          <p>
             <span className="font-bold">Availabilty:</span> Freelance & Remote
           </p>
         </div>
       </div>
-      <div className="mt-9">
+      <div className="mt-5">
         <a
           href={cv}
           download={cv}
